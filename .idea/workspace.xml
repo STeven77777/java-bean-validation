@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="bean-validation:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="95b70dd3-028b-4822-b65b-d96d1ad556f0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../annotations/src/main/java/example/actions/SomethingLikeHelloAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../annotations/src/main/java/example/actions/WhatEverYouWant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../annotations/src/main/webapp/WEB-INF/content/somethinglikehello-success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../annotations/src/main/webapp/WEB-INF/content/what-ever-you-want-success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic-struts/.run/Tomcat 8.5.56.run.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edit/what/ever/action/EditWhatEverAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edit/what/ever/model/RoomType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edit/what/ever/model/WhatEverModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edit/what/ever/service/EditWhatEverService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edit/what/ever/service/EditWhatEverServiceInMemory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/edit/what/ever/action/EditWhatEverAction.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/edit-what-ever-thank-you.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/edit-what-ever.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action-chaining/src/main/resources/struts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../action-chaining/src/main/resources/struts.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../annotations/src/main/java/example/actions/HelloAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../annotations/src/main/java/example/actions/HelloAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../annotations/src/main/webapp/WEB-INF/content/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../annotations/src/main/webapp/WEB-INF/content/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic-struts/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../basic-struts/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/struts/edit/model/State.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/struts/edit/model/State.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/apache/struts/edit/action/EditAction.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/apache/struts/edit/action/EditAction.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/struts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/struts.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="XML Properties File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GroovyConsoleState">
+    <option name="list">
+      <list>
+        <Entry>
+          <option name="moduleName" value="bean-validation" />
+          <option name="url" value="file://$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console.groovy" />
+        </Entry>
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1eNsYVUvy3AW715co0H5ZfZecW7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/WEB-INF" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Source Code\struts2-from-git\bean-validation\src\main\resources\edit.what.ever.action" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 8.5.56" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.56" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/bean_validation_war_exploded/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="bean-validation:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/bean_validation_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_bean-validation" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50687" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="bean-validation:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95b70dd3-028b-4822-b65b-d96d1ad556f0" name="Default Changelist" comment="" />
+      <created>1594173432678</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594173432678</updated>
+      <workItem from="1594173435761" duration="474000" />
+      <workItem from="1594173976680" duration="4383000" />
+      <workItem from="1594178399813" duration="239000" />
+      <workItem from="1594178655443" duration="693000" />
+      <workItem from="1594193948195" duration="6425000" />
+      <workItem from="1594201284471" duration="4575000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="590" y="245" key="#Console" timestamp="1594176613748">
+      <screen x="0" y="0" width="1920" height="999" />
+    </state>
+    <state x="590" y="245" key="#Console/1920.0.1920.999/0.0.1920.999@0.0.1920.999" timestamp="1594176613748" />
+    <state x="440" y="74" key="#Project_Structure" timestamp="1594200659126">
+      <screen x="0" y="0" width="1920" height="999" />
+    </state>
+    <state x="440" y="74" key="#Project_Structure/1920.0.1920.999/0.0.1920.999@0.0.1920.999" timestamp="1594200659126" />
+    <state x="231" y="0" width="1481" height="999" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594177711461">
+      <screen x="0" y="0" width="1920" height="999" />
+    </state>
+    <state x="231" y="0" width="1481" height="999" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.999/0.0.1920.999@0.0.1920.999" timestamp="1594177711461" />
+    <state x="765" y="215" key="#com.intellij.ide.util.MemberChooser" timestamp="1594204616107">
+      <screen x="0" y="0" width="1920" height="999" />
+    </state>
+    <state x="765" y="215" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.999/0.0.1920.999@0.0.1920.999" timestamp="1594204616107" />
+    <state x="690" y="138" width="1120" height="722" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1594174208522">
+      <screen x="0" y="0" width="1920" height="999" />
+    </state>
+    <state x="690" y="138" width="1120" height="722" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/1920.0.1920.999/0.0.1920.999@0.0.1920.999" timestamp="1594174208522" />
+    <state x="759" y="406" key="#com.intellij.javaee.module.view.web.EditWebRootDialog" timestamp="1594200658065">
+      <screen x="0" y="0" width="1920" height="999" />
+    </state>
+    <state x="759" y="406" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/1920.0.1920.999/0.0.1920.999@0.0.1920.999" timestamp="1594200658065" />
+    <state x="690" y="246" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594200918968">
+      <screen x="0" y="0" width="1920" height="999" />
+    </state>
+    <state x="690" y="246" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.0.1920.999/0.0.1920.999@0.0.1920.999" timestamp="1594200918968" />
+    <state x="740" y="241" key="FileChooserDialogImpl" timestamp="1594200657061">
+      <screen x="0" y="0" width="1920" height="999" />
+    </state>
+    <state x="740" y="241" key="FileChooserDialogImpl/1920.0.1920.999/0.0.1920.999@0.0.1920.999" timestamp="1594200657061" />
+    <state x="370" y="158" width="1382" height="683" key="GrepConsoleSettings" timestamp="1594178917458">
+      <screen x="0" y="0" width="1920" height="999" />
+    </state>
+    <state x="370" y="158" width="1382" height="683" key="GrepConsoleSettings/1920.0.1920.999/0.0.1920.999@0.0.1920.999" timestamp="1594178917458" />
+    <state width="1709" height="268" key="GridCell.Tab.0.bottom" timestamp="1594205590219">
+      <screen x="0" y="0" width="1920" height="999" />
+    </state>
+    <state width="1709" height="268" key="GridCell.Tab.0.bottom/1920.0.1920.999/0.0.1920.999@0.0.1920.999" timestamp="1594205590219" />
+    <state width="1709" height="268" key="GridCell.Tab.0.center" timestamp="1594205590219">
+      <screen x="0" y="0" width="1920" height="999" />
+    </state>
+    <state width="1709" height="268" key="GridCell.Tab.0.center/1920.0.1920.999/0.0.1920.999@0.0.1920.999" timestamp="1594205590219" />
+    <state width="1709" height="268" key="GridCell.Tab.0.left" timestamp="1594205590219">
+      <screen x="0" y="0" width="1920" height="999" />
+    </state>
+    <state width="1709" height="268" key="GridCell.Tab.0.left/1920.0.1920.999/0.0.1920.999@0.0.1920.999" timestamp="1594205590219" />
+    <state width="1709" height="268" key="GridCell.Tab.0.right" timestamp="1594205590219">
+      <screen x="0" y="0" width="1920" height="999" />
+    </state>
+    <state width="1709" height="268" key="GridCell.Tab.0.right/1920.0.1920.999/0.0.1920.999@0.0.1920.999" timestamp="1594205590219" />
+    <state width="1709" height="268" key="GridCell.Tab.1.bottom" timestamp="1594205590047">
+      <screen x="0" y="0" width="1920" height="999" />
+    </state>
+    <state width="1709" height="268" key="GridCell.Tab.1.bottom/1920.0.1920.999/0.0.1920.999@0.0.1920.999" timestamp="1594205590047" />
+    <state width="1709" height="268" key="GridCell.Tab.1.center" timestamp="1594205590047">
+      <screen x="0" y="0" width="1920" height="999" />
+    </state>
+    <state width="1709" height="268" key="GridCell.Tab.1.center/1920.0.1920.999/0.0.1920.999@0.0.1920.999" timestamp="1594205590047" />
+    <state width="1709" height="268" key="GridCell.Tab.1.left" timestamp="1594205590047">
+      <screen x="0" y="0" width="1920" height="999" />
+    </state>
+    <state width="1709" height="268" key="GridCell.Tab.1.left/1920.0.1920.999/0.0.1920.999@0.0.1920.999" timestamp="1594205590047" />
+    <state width="1709" height="268" key="GridCell.Tab.1.right" timestamp="1594205590047">
+      <screen x="0" y="0" width="1920" height="999" />
+    </state>
+    <state width="1709" height="268" key="GridCell.Tab.1.right/1920.0.1920.999/0.0.1920.999@0.0.1920.999" timestamp="1594205590047" />
+    <state width="1709" height="268" key="GridCell.Tab.2.bottom" timestamp="1594205590047">
+      <screen x="0" y="0" width="1920" height="999" />
+    </state>
+    <state width="1709" height="268" key="GridCell.Tab.2.bottom/1920.0.1920.999/0.0.1920.999@0.0.1920.999" timestamp="1594205590047" />
+    <state width="1709" height="268" key="GridCell.Tab.2.center" timestamp="1594205590047">
+      <screen x="0" y="0" width="1920" height="999" />
+    </state>
+    <state width="1709" height="268" key="GridCell.Tab.2.center/1920.0.1920.999/0.0.1920.999@0.0.1920.999" timestamp="1594205590047" />
+    <state width="1709" height="268" key="GridCell.Tab.2.left" timestamp="1594205590047">
+      <screen x="0" y="0" width="1920" height="999" />
+    </state>
+    <state width="1709" height="268" key="GridCell.Tab.2.left/1920.0.1920.999/0.0.1920.999@0.0.1920.999" timestamp="1594205590047" />
+    <state width="1709" height="268" key="GridCell.Tab.2.right" timestamp="1594205590047">
+      <screen x="0" y="0" width="1920" height="999" />
+    </state>
+    <state width="1709" height="268" key="GridCell.Tab.2.right/1920.0.1920.999/0.0.1920.999@0.0.1920.999" timestamp="1594205590047" />
+    <state x="667" y="99" width="585" height="801" key="find.popup" timestamp="1594205539164">
+      <screen x="0" y="0" width="1920" height="999" />
+    </state>
+    <state x="667" y="99" width="585" height="801" key="find.popup/1920.0.1920.999/0.0.1920.999@0.0.1920.999" timestamp="1594205539164" />
+    <state x="623" y="214" key="search.everywhere.popup" timestamp="1594196135203">
+      <screen x="0" y="0" width="1920" height="999" />
+    </state>
+    <state x="623" y="214" key="search.everywhere.popup/1920.0.1920.999/0.0.1920.999@0.0.1920.999" timestamp="1594196135203" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/apache/struts/edit/action/EditAction.java</url>
+          <line>78</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

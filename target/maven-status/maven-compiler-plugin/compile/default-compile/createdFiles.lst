@@ -1,0 +1,10 @@
+edit\what\ever\service\EditWhatEverServiceInMemory.class
+org\apache\struts\edit\service\EditServiceInMemory.class
+edit\what\ever\model\RoomType.class
+edit\what\ever\action\EditWhatEverAction.class
+org\apache\struts\edit\service\EditService.class
+org\apache\struts\edit\action\EditAction.class
+edit\what\ever\model\WhatEverModel.class
+org\apache\struts\edit\model\Person.class
+org\apache\struts\edit\model\State.class
+edit\what\ever\service\EditWhatEverService.class
