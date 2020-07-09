@@ -13,5 +13,7 @@
 <p><a href='<s:url action="edit" />'>Edit your information</a></p>
 
 <p><a href='<s:url action="edit-what-ever" />'>What ever</a></p>
+
+<p><a href="<s:url action="index" namespace="config-browser" />">Launch the configuration browser</a></p>
 </body>
 </html>
