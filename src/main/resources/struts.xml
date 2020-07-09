@@ -33,6 +33,9 @@
 			<result name="input">/edit-what-ever.jsp</result>
 			<result name="success">/edit-what-ever-thank-you.jsp</result>
 		</action>
+		<action name="locale" class="edit.what.ever.action.LocaleAction" method="execute">
+			<result name="success">/index.jsp</result>
+		</action>
 	</package>
 
 </struts>
